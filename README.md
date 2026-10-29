@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- The approved design is preserved exactly as the full-width visual -->
-<img src="./assets/final-design.png" alt="Borsha Chowdhury - approved neon cyberpunk GitHub profile design" width="100%" />
+<img src="./final-design.png" alt="Borsha Chowdhury - approved neon cyberpunk GitHub profile design" width="100%" />
 
 <br />
 
-<img src="./assets/typing.gif" alt="Animated typing: Borsha Chowdhury, CSE Student, Web Developer, AI/ML" width="95%" />
+<img src="./typing.gif" alt="Animated typing: Borsha Chowdhury, CSE Student, Web Developer, AI/ML" width="95%" />
 
 <br /><br />
 
