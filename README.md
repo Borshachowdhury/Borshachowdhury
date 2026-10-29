@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./header.svg" alt="Borsha Chowdhury neon header" width="100%" />
+<img src="./assets/header.svg" alt="Borsha Chowdhury neon header" width="100%" />
 
-<img src="./typing.gif" alt="Animated introduction" width="95%" />
+<img src="./assets/typing.gif" alt="Animated introduction" width="95%" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Borshachowdhury-080f28?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Borshachowdhury)
 ![CSE](https://img.shields.io/badge/CSE-Student-7c3aed?style=for-the-badge)
