@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/luxury-header.svg" alt="Black and Gold Luxury Developer banner" width="100%" />
+<img src="luxury-header.svg" alt="Black and Gold Luxury Developer banner" width="100%" />
 
-<img src="assets/typing.gif" alt="Animated developer introduction" width="95%" />
+<img src="typing.gif" alt="Animated developer introduction" width="95%" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Borshachowdhury-111111?style=for-the-badge&logo=github&logoColor=E5B45D)](https://github.com/Borshachowdhury)
 ![Focus](https://img.shields.io/badge/Focus-Web%20Development%20%26%20AI%2FML-17130C?style=for-the-badge&labelColor=BD8A3B&color=151515)
