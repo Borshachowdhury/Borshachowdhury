@@ -1,105 +1,82 @@
 <div align="center">
 
-<!-- Animated neon header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050b1b,35:123a78,70:7027c9,100:06b6d4&height=220&section=header&text=Borsha%20Chowdhury&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=CSE%20Student%20%7C%20Web%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=15" alt="Animated neon banner" />
+<!-- The approved design is preserved exactly as the full-width visual -->
+<img src="./assets/final-design.png" alt="Borsha Chowdhury - approved neon cyberpunk GitHub profile design" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=38D9FF&center=true&vCenter=true&width=700&lines=Hello%2C+World!+%F0%9F%91%8B;Building+projects+one+line+at+a+time;Learning+Web+Development+%26+AI%2FML;Code.+Learn.+Build.+Repeat." alt="Animated typing introduction" />
+<br />
 
-<p>
-  <a href="https://github.com/borshachowdhury"><img src="https://img.shields.io/badge/GitHub-borshachowdhury-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Web-7c3aed?style=for-the-badge&logo=sparkles&logoColor=white" alt="AI and Web focus"/>
-  <img src="https://img.shields.io/badge/Always-Learning-0891b2?style=for-the-badge&logo=bookstack&logoColor=white" alt="Always learning"/>
-</p>
+<img src="./assets/typing.gif" alt="Animated typing: Borsha Chowdhury, CSE Student, Web Developer, AI/ML" width="95%" />
+
+<br /><br />
+
+[![GitHub](https://img.shields.io/badge/GitHub-borshachowdhury-0B1024?style=for-the-badge&logo=github&logoColor=white)](https://github.com/borshachowdhury)
+![Focus](https://img.shields.io/badge/Focus-Web%20Development%20%26%20AI%2FML-7137D4?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-0891B2?style=for-the-badge)
 
 </div>
 
----
+> **Design note:** The image above is the exact approved visual mockup. Its illustrated GitHub statistics, timeline dates, and project cards are **design examples**, not verified live account data. The sections below are the editable, actual README content.
 
 ## 🌌 About Me
 
-<img align="right" width="170" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Animated coding illustration" />
+I'm **Borsha Chowdhury**, a Computer Science & Engineering student interested in web development, AI/ML, and building useful software.
 
-- 🎓 I'm a Computer Science & Engineering student.
-- 💻 Interested in building web applications with **Java, PHP, HTML, CSS and JavaScript**.
-- 📱 Working on an **AI Study Planner** concept with Flutter.
-- 🤖 Exploring **Artificial Intelligence and Machine Learning**.
-- 🔬 Interested in research, thesis work, and practical software projects.
-- 🌱 Learning step by step and improving through building.
+- 💻 Exploring **Java, PHP, HTML, CSS, and JavaScript**
+- 📱 Working on an **AI Study Planner** using Flutter
+- 🤖 Interested in AI/ML applications and real-world problems
+- 🔬 Exploring research and thesis directions
+- 🌱 Learning by building and documenting projects
 
-<br clear="right"/>
-
-## ⚡ Tech Stack
+## ⚡ Skills & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,php,html,css,js,dart,flutter,git,github,vscode&theme=dark&perline=5" alt="Technology icons" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| 📚 **AI Study Planner** | Study planning and organization app | Flutter, Dart, GetX, Hive | In progress |
+| 💻 **Developer Portfolio** | Personal developer profile and visual portfolio | HTML, CSS, JavaScript | Portfolio concept |
+| 🚦 **Bangladesh Traffic AI** | Potential AI/ML research direction for traffic challenges | Research idea | Idea only |
 
-### 📚 AI Study Planner
+**[Browse my GitHub repositories →](https://github.com/borshachowdhury?tab=repositories)**
 
-A study-planning app concept to help students organize schedules, study sessions, and learning goals.
-
-**Tech:** Flutter · Dart · GetX · Hive
-
-[Browse my repositories →](https://github.com/borshachowdhury?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Developer Portfolio
-
-A responsive portfolio concept with a dark neon aesthetic, animated visual effects, and project highlights.
-
-**Tech:** HTML · CSS · JavaScript
-
-[Browse my repositories →](https://github.com/borshachowdhury?tab=repositories)
-
-</td>
-</tr>
-</table>
-
-## 📊 GitHub at a Glance
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=borshachowdhury&show_icons=true&hide_border=true&bg_color=050b1b&title_color=38d9ff&icon_color=a855f7&text_color=e2e8f0&rank_icon=github" alt="GitHub profile statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borshachowdhury&layout=compact&hide_border=true&bg_color=050b1b&title_color=38d9ff&text_color=e2e8f0" alt="Most used languages" />
-
-<img width="96%" src="https://streak-stats.demolab.com?user=borshachowdhury&hide_border=true&background=050b1b&ring=38d9ff&fire=a855f7&currStreakLabel=38d9ff&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" alt="GitHub contribution streak" />
-
-</div>
-
-## 🗺️ My Learning Journey
-
-<div align="center">
-
-| Stage | Goal |
-|:--|:--|
-| 🌱 **Now** | Strengthen programming and web development skills |
-| 🛠️ **Next** | Publish polished projects with clear documentation |
-| 💼 **Future** | Prepare for internships and software development roles |
-| 🔬 **Long term** | Explore AI/ML research and thesis opportunities |
+<!-- These cards are live third-party images; they may be unavailable during outages. -->
+<img src="https://github-readme-stats.vercel.app/api?username=borshachowdhury&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borshachowdhury&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
 </div>
+
+## 🎯 My Journey
+
+- **Now:** Strengthen CSE fundamentals and finish practical projects
+- **Next:** Publish clean repositories with screenshots and documentation
+- **Career:** Prepare for internships and software developer opportunities
+- **Research:** Explore AI/ML thesis problems with real-world relevance
 
 ## 🤝 Connect With Me
 
+- 💻 **GitHub:** [@borshachowdhury](https://github.com/borshachowdhury)
+- 📬 **Email / LinkedIn:** Add your verified public contact links here
+
 <div align="center">
 
-<a href="https://github.com/borshachowdhury"><img src="https://img.shields.io/badge/GitHub-Visit%20Profile-111827?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="mailto:borshachowdhury@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7027c9,100:050b1b&height=110&section=footer&animation=twinkling" alt="Animated footer" />
-
-**✨ “Code. Learn. Build. Repeat.”**
+### ✨ Code • Learn • Build • Grow ✨
 
 </div>
